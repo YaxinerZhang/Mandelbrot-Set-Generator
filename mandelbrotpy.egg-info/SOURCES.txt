@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+mandelbrotpy/_mandelbrot_coloring.c
+mandelbrotpy/_mandelbrot_escapetime.c
+mandelbrotpy/_mandelbrot_iter.c
+mandelbrotpy.egg-info/PKG-INFO
+mandelbrotpy.egg-info/SOURCES.txt
+mandelbrotpy.egg-info/dependency_links.txt
+mandelbrotpy.egg-info/requires.txt
+mandelbrotpy.egg-info/top_level.txt
+test/test.py
